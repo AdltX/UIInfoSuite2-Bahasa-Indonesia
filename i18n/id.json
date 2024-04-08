@@ -1,4 +1,6 @@
 {
+  // GUI - Game Menu
+  "OptionsTabTooltip": "UI Info Suite 2 Options",
   //GUI - Billboard
   "Billboard": "Billboard",
   "Calendar": "Kalender",
@@ -17,10 +19,17 @@
   "RainNextDay": "Besok akan Hujan",
   "ThunderstormNextDay": "Besok akan ada Badai Petir",
   "SnowNextDay": "Besok akan Turun Salju",
+  "IslandRainNextDay": "Akan turun hujan di pulau ini besok",
+  "IslandThunderstormNextDay": "Akan ada badai petir di pulau ini besok",
   "DaysUntilToolIsUpgraded": "{0} hari hingga {1} selesai ditingkatkan",
   "ToolIsFinishedBeingUpgraded": "{0} Telah Selesai!",
   "NpcBirthday": "{0} Berulang Tahun",
   "RobinBuildingStatus": "Robin akan menyelesaikan pembangunan dalam {0} hari",
+  "RobinHouseUpgradeStatus": "Robin akan menyelesaikan pembangunan dalam {0} hari",
+  // Display icons - Foragables
+  "CanFindSalmonberry": "Kamu bisa menemukan Salmonberry hari ini",
+  "CanFindBlackberry": "Kamu bisa menemukan Blackberry hari ini",
+  "CanFindHazelnut": "Kamu bisa menemukan Hazelnut di pohon-pohon hari ini",
   //Display icons - Luck
   "DailyLuckValue": "Keberuntungan Harian Kamu Adalah {0}",
   "FeelingLucky": "kamu Merasa Sangat Beruntung!!",
@@ -60,6 +69,8 @@
   "ShowRobinBuildingStatusIcon": "Tampilkan Status Konstruksi Robin",
   "ShowLuckIcon": "Tampilkan Ikon Keberuntungan",
   "ShowExactValue": "Tampilkan Nilai yang Sesuai",
+  "ShowSeasonalBerry": "Tampilkan makanan ternak musiman",
+  "ShowSeasonalBerryHazelnut": "Tampilkan hazelnut di pohon",
   //Others
   "LevelUp": "Naik Level"
 }
