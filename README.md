@@ -3,7 +3,6 @@
 > Terjemahan Bahasa Indonesia untuk [Mod UI Info Suite 2](https://github.com/Annosz/UIInfoSuite2)
 
 ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/YugoSamakuhaku/UIInfoSuite2-Bahasa-Indonesia?label=Versi%20Terbaru&style=plastic) ![GitHub](https://img.shields.io/github/license/YugoSamakuhaku/UIInfoSuite2-Bahasa-Indonesia?label=license&style=plastic)
-<img src="https://github.com/YugoSamakuhaku/UIInfoSuite2-Bahasa-Indonesia/blob/70d81b4e296d4d3fd67918a4ac21617a6652b2d8/images/UIInfoSuite2-Settings-1.png" />
 <img src="https://github.com/YugoSamakuhaku/UIInfoSuite2-Bahasa-Indonesia/blob/70d81b4e296d4d3fd67918a4ac21617a6652b2d8/images/UIInfoSuite2-Settings-2.png" />
 <img src="https://github.com/YugoSamakuhaku/UIInfoSuite2-Bahasa-Indonesia/blob/70d81b4e296d4d3fd67918a4ac21617a6652b2d8/images/UIInfoSuite2-Settings-3.png" />
 ## 📦 Persyaratan Mod
