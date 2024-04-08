@@ -1,4 +1,4 @@
-# Unofficial Update [UI Info Suite 2 - Bahasa Indonesia](https://github.com/YugoSamakuhaku/UIInfoSuite2-Bahasa-Indonesia)
+# Unofficial Update [UI Info Suite 2 - Bahasa Indonesia](https://github.com/AdltX/UIInfoSuite2-Bahasa-Indonesia)
 
 > Terjemahan Bahasa Indonesia untuk [Mod UI Info Suite 2](https://github.com/Annosz/UIInfoSuite2)
 
